@@ -1,0 +1,16 @@
+nav {
+    display: inline-flexbox;
+    background: rgb(145, 3, 119);
+    color: rgb(255, 255, 255);
+    padding: 20px 50px;
+    text-decoration: none;
+}
+
+nav:hover {
+    background: rgb(0, 0, 0);
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}

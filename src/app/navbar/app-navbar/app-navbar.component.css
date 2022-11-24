@@ -1,0 +1,16 @@
+nav {
+    display: inline-block;
+    background: rgb(97, 20, 35);
+    color: rgb(255, 255, 255);
+    padding: 30px 70px;
+    text-decoration: none;
+}
+
+nav:hover {
+    background: rgb(0, 0, 0);
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}

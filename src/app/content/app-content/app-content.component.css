@@ -1,0 +1,9 @@
+p {
+    background-color: rgba(175, 67, 67, 0.626);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+
+div {
+    float: right;
+}
